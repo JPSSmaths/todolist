@@ -98,7 +98,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass><com class="com br rocketseat todolist TodolistApplication"></com></mainClass>
+                            <mainClass>com.br.rocketseat.todolist.TodolistApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
